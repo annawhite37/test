@@ -1,2 +1,2 @@
-## A Test Resporitory
-A resporitory is used to experiment on how git and github work together.
+## A Test Repository
+A repository is used to experiment on how git and github work together.
